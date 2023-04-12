@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:proyek3/daftar.dart';
 import './page-login.dart';
 
+// jangan dijalankan
 // void main() {
 //   runApp(DataDiri());
 // }
